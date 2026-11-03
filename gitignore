@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+mlruns/
+notebooks/mlruns/
+mlflow.db
+.env
+.vscode/
+data/india_housing_prices.csv
+data/raw_deduped_housing.csv
+data/cleaned_housing.csv
